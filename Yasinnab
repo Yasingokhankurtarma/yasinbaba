@@ -1,0 +1,8 @@
+
+echo "# yasinbaba" >> README.md 
+git init 
+git add README.md 
+git commit -m "ilk tutarlı" 
+git şube -M ana 
+git uzak başlangıç ​​noktası ekle https://github.com/Yasingokhankurtarma/yasinbaba.git
+ git push - ana menşein sen
